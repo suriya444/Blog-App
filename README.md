@@ -1,3 +1,9 @@
+![Create Post](https://github.com/suriya444/Blog-App/assets/45706235/55e4dfa9-9005-4632-a73d-32bf0ef9a0a7)
+
+![MyBlogs](https://github.com/suriya444/Blog-App/assets/45706235/d329528f-1fef-486b-b048-0b1fe1edddc4)
+
+![Update Blog](https://github.com/suriya444/Blog-App/assets/45706235/5a48851e-e187-48da-a90c-dfd2e9ae063d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,9 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![Home Page](https://github.com/suriya444/Blog-App/assets/45706235/cf7e0c99-3fa6-4a52-ad77-9aaf8da0bd84)
 
-![Create Post](https://github.com/suriya444/Blog-App/assets/45706235/876a168f-7d41-47bb-a754-a751193a3680)
-
-![Update Blog](https://github.com/suriya444/Blog-App/assets/45706235/7a5411a1-1595-4bfa-8802-0b02b5374cdf)
 
