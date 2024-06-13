@@ -25,9 +25,9 @@ const BlogDetails = () => {
     }
   };
 
-  useEffect(() => {
-    getBlogDetail();
-  }, [id]);
+useEffect(() => {
+  getBlogDetail(); // Assuming getBlogDetail is a function
+}, [getBlogDetail]);
 
   // input change
   const handleChange = (e) => {
